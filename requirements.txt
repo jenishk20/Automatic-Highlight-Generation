@@ -1,0 +1,6 @@
+SoccerNet
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
