@@ -1,3 +1,5 @@
 models/*
 data/*
 myenv/*
+/extracted/*
+extracted.zip
