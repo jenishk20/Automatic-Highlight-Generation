@@ -3,3 +3,6 @@ data/*
 myenv/*
 /extracted/*
 extracted.zip
+extracted/*
+
+.DS_Store

@@ -4,3 +4,8 @@ torch
 torchvision
 numpy
 matplotlib
+pandas
+seaborn
+scikit-learn
+albumentations
+wandb
