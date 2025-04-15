@@ -6,3 +6,4 @@ extracted.zip
 extracted/*
 
 .DS_Store
+testNotebooks/*
