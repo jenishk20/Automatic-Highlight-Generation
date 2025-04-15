@@ -1,0 +1,72 @@
+{
+    "accuracy": 0.8904109589041096,
+    "classification_report": {
+        "Corner": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 20.0
+        },
+        "Foul": {
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1-score": 0.9473684210526315,
+            "support": 20.0
+        },
+        "Goal": {
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1-score": 0.9473684210526315,
+            "support": 20.0
+        },
+        "Kick-off": {
+            "precision": 0.9047619047619048,
+            "recall": 0.95,
+            "f1-score": 0.926829268292683,
+            "support": 20.0
+        },
+        "Penalty": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Red card": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 4.0
+        },
+        "Shots off target": {
+            "precision": 0.72,
+            "recall": 0.9,
+            "f1-score": 0.8,
+            "support": 20.0
+        },
+        "Shots on target": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1-score": 0.8,
+            "support": 20.0
+        },
+        "Yellow card": {
+            "precision": 0.8636363636363636,
+            "recall": 0.95,
+            "f1-score": 0.9047619047619048,
+            "support": 20.0
+        },
+        "accuracy": 0.8904109589041096,
+        "macro avg": {
+            "precision": 0.8098220298220298,
+            "recall": 0.7666666666666667,
+            "f1-score": 0.7769994090918353,
+            "support": 146.0
+        },
+        "weighted avg": {
+            "precision": 0.8888216806025027,
+            "recall": 0.8904109589041096,
+            "f1-score": 0.884885116231943,
+            "support": 146.0
+        }
+    }
+}

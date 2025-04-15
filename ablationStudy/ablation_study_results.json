@@ -1,0 +1,74 @@
+{
+    "config_1": {
+        "accuracy": 0.8904109589041096,
+        "config": {
+            "frame_height": 224,
+            "frame_width": 224,
+            "num_frames": 32,
+            "batch_size": 4,
+            "epochs": 15,
+            "learning_rate": 0.0001,
+            "fold": 3,
+            "optimizer": "adam",
+            "scheduler": "cosine",
+            "dropout": 0.5,
+            "model_type": "r3d",
+            "pretrained": true
+        },
+        "model_path": "C:\\Users\\vidit\\Documents\\ML\\Automatic-Highlight-Generation\\models\\best_model_config1.pth"
+    },
+    "config_2": {
+        "accuracy": 0.910958904109589,
+        "config": {
+            "frame_height": 224,
+            "frame_width": 224,
+            "num_frames": 32,
+            "batch_size": 8,
+            "epochs": 16,
+            "learning_rate": 0.0003,
+            "fold": 3,
+            "optimizer": "adam",
+            "scheduler": "cosine",
+            "dropout": 0.7,
+            "model_type": "r3d",
+            "pretrained": true
+        },
+        "model_path": "C:\\Users\\vidit\\Documents\\ML\\Automatic-Highlight-Generation\\models\\best_model_config2.pth"
+    },
+    "config_3": {
+        "accuracy": 0.636986301369863,
+        "config": {
+            "frame_height": 232,
+            "frame_width": 232,
+            "num_frames": 32,
+            "batch_size": 4,
+            "epochs": 8,
+            "learning_rate": 0.001,
+            "fold": 3,
+            "optimizer": "sgd",
+            "scheduler": "cosine",
+            "dropout": 0.3,
+            "model_type": "r3d",
+            "pretrained": false
+        },
+        "model_path": "C:\\Users\\vidit\\Documents\\ML\\Automatic-Highlight-Generation\\models\\best_model_congif3.pth"
+    },
+    "config_4": {
+        "accuracy": 0.7054794520547946,
+        "config": {
+            "frame_height": 224,
+            "frame_width": 224,
+            "num_frames": 32,
+            "batch_size": 8,
+            "epochs": 16,
+            "learning_rate": 0.0003,
+            "fold": 3,
+            "optimizer": "adam",
+            "scheduler": "cosine",
+            "dropout": 0.7,
+            "model_type": "r3d",
+            "pretrained": false
+        },
+        "model_path": "C:\\Users\\vidit\\Documents\\ML\\Automatic-Highlight-Generation\\models\\best_model_config4.pth"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "accuracy": 0.7054794520547946,
+    "classification_report": {
+        "Corner": {
+            "precision": 0.6896551724137931,
+            "recall": 1.0,
+            "f1-score": 0.8163265306122449,
+            "support": 20.0
+        },
+        "Foul": {
+            "precision": 0.6071428571428571,
+            "recall": 0.85,
+            "f1-score": 0.7083333333333334,
+            "support": 20.0
+        },
+        "Goal": {
+            "precision": 0.6842105263157895,
+            "recall": 0.65,
+            "f1-score": 0.6666666666666666,
+            "support": 20.0
+        },
+        "Kick-off": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8,
+            "f1-score": 0.8421052631578947,
+            "support": 20.0
+        },
+        "Penalty": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Red card": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 4.0
+        },
+        "Shots off target": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1-score": 0.6,
+            "support": 20.0
+        },
+        "Shots on target": {
+            "precision": 0.7777777777777778,
+            "recall": 0.35,
+            "f1-score": 0.4827586206896552,
+            "support": 20.0
+        },
+        "Yellow card": {
+            "precision": 0.782608695652174,
+            "recall": 0.9,
+            "f1-score": 0.8372093023255814,
+            "support": 20.0
+        },
+        "accuracy": 0.7054794520547946,
+        "macro avg": {
+            "precision": 0.5589204353545867,
+            "recall": 0.5722222222222223,
+            "f1-score": 0.5503777463094862,
+            "support": 146.0
+        },
+        "weighted avg": {
+            "precision": 0.6890799887933261,
+            "recall": 0.7054794520547946,
+            "f1-score": 0.6785479064089557,
+            "support": 146.0
+        }
+    }
+}

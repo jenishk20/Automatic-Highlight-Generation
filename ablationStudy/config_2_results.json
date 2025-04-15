@@ -1,0 +1,72 @@
+{
+    "accuracy": 0.910958904109589,
+    "classification_report": {
+        "Corner": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 20.0
+        },
+        "Foul": {
+            "precision": 0.9473684210526315,
+            "recall": 0.9,
+            "f1-score": 0.9230769230769231,
+            "support": 20.0
+        },
+        "Goal": {
+            "precision": 0.9473684210526315,
+            "recall": 0.9,
+            "f1-score": 0.9230769230769231,
+            "support": 20.0
+        },
+        "Kick-off": {
+            "precision": 0.9523809523809523,
+            "recall": 1.0,
+            "f1-score": 0.975609756097561,
+            "support": 20.0
+        },
+        "Penalty": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Red card": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1-score": 0.8571428571428571,
+            "support": 4.0
+        },
+        "Shots off target": {
+            "precision": 1.0,
+            "recall": 0.7,
+            "f1-score": 0.8235294117647058,
+            "support": 20.0
+        },
+        "Shots on target": {
+            "precision": 0.6896551724137931,
+            "recall": 1.0,
+            "f1-score": 0.8163265306122449,
+            "support": 20.0
+        },
+        "Yellow card": {
+            "precision": 0.9523809523809523,
+            "recall": 1.0,
+            "f1-score": 0.975609756097561,
+            "support": 20.0
+        },
+        "accuracy": 0.910958904109589,
+        "macro avg": {
+            "precision": 0.8321282132534401,
+            "recall": 0.8055555555555556,
+            "f1-score": 0.8104857953187529,
+            "support": 146.0
+        },
+        "weighted avg": {
+            "precision": 0.9163224546960219,
+            "recall": 0.910958904109589,
+            "f1-score": 0.9052955989252726,
+            "support": 146.0
+        }
+    }
+}
