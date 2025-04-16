@@ -110,6 +110,26 @@ We included diagrams in our report to illustrate:
 ```
 
 ---
+# How to Run the Project?
+
+## Training
+1. Download the Extracted Data from [link](https://northeastern-my.sharepoint.com/:f:/g/personal/kothari_je_northeastern_edu/EoeriS3ssPRGpD_t4tIhygsBsdvdjtYV0164Zkt4_Gr3CA?e=VdW3h1)
+2. Place the Extracted folder in the same directory as the root.
+3. Navigate to the Notebook folder and open one of the model training notebooks:
+   - GRU-highlight-generator.ipynb
+   - LSTM-highlight-generator.ipynb
+   - resnet3D_hyperparam.ipynb
+4. In the notebook, set the correct path in the root_directory variable.
+
+## Testing
+1. Download the trained models from [link](https://northeastern-my.sharepoint.com/:f:/r/personal/kothari_je_northeastern_edu/Documents/Soccer%20Data/Models?csf=1&web=1&e=smXhpl) (or use your own trained models)
+2. Place the model file in the model directory
+3. Open notebooks/model_evaluations.ipynb
+4. Set the MODEL_PATH,SOURCE_DIR, TARGET_DIR variables appropriately in the notebook.
+5. Run the notebook to evaluate model performance and view results.
+6. Ablation study results will be available in Ablation directory.
+
+---
 
 ## 🚀 Future Work
 - Explore transformer-based video models like TimeSformer
